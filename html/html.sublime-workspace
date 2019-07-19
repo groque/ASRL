@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"numero"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gith",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"gih",
+				"GitHub: Switch Accounts"
+			],
+			[
+				"github switch accounts",
+				"GitHub: Switch Accounts"
+			],
+			[
+				"github",
+				"GitHub: Switch Accounts"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimeh",
+				"SublimeHighlight: copy to clipboard as HTML"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Administración de Servicios de Red Bajo Linux/Proyecto 2_Roque/ASRL"
+	],
+	"file_history":
+	[
+		"/C/Users/groqu/AppData/Roaming/Sublime Text 3/Packages/User/GitHub.sublime-settings",
+		"/C/Users/groqu/AppData/Roaming/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/Users/groqu/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Administración de Servicios de Red Bajo Linux/Proyecto 2_Roque/ASRL/html/index.php",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Administración de Servicios de Red Bajo Linux/Proyecto 2_Roque/ASRL/dblogin.php",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Administración de Servicios de Red Bajo Linux/Proyecto 2_Roque/dblogin.ini",
+		"/D/Downloads/menu_roque.sh",
+		"/D/Escuela Superior Politécnica del Litoral/Comunitarias_San Pedro_2019 - General/Encuestas/RESULTADOS DE ENCUESTA SAN PEDRO.sav",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Administración de Servicios de Red Bajo Linux/Trabajo autónomo 3/html/css/util.css",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Administración de Servicios de Red Bajo Linux/Trabajo autónomo 3/html/css/main.css",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Administración de Servicios de Red Bajo Linux/Trabajo autónomo 3/html/styled.php",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Administración de Servicios de Red Bajo Linux/Trabajo autónomo 3/html/index.php",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Administración de Servicios de Red Bajo Linux/Trabajo autónomo 3/acad-espol.sql",
+		"/D/Desktop/styled/css/util.css",
+		"/D/Desktop/styled/css/main.css",
+		"/D/Desktop/index.php",
+		"/D/Desktop/styled/index.php",
+		"/D/Desktop/acad-espol.sql",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Administración de Servicios de Red Bajo Linux/Trabajo autónomo 3/estudiantes.csv",
+		"/D/Desktop/index.css",
+		"/D/Desktop/Table_Responsive_v2/index.html",
+		"/D/Desktop/[bonkai77] Mirai Nikki + OVA (ENHANCED) [1080p] [DUAL-AUDIO] [x265] [HEVC] [AAC] [10bit]/torrent.info.nfo",
+		"/D/Desktop/[bonkai77] Anohana - The Flower We Saw That Day [BD-1080p] [DUAL-AUDIO] [x265] [HEVC] [AAC] [10bit] {FILTERED} v2/torrent.info.nfo",
+		"/C/Users/groqu/AppData/Local/Temp/Rar$DIa16204.24346/afro.samurai.(4802533).nfo",
+		"/D/Desktop/Death Note/torrent.nfo",
+		"/D/Desktop/[bonkai77] Elfen Lied + OVA [BD-1080p] [DUAL-AUDIO] [x265] [HEVC] [AAC] {FILTERED}/torrent.info.nfo",
+		"/D/Desktop/The.Big.Bang.Theory.Season.10.Complete.720p.WEB.x264-[MULVAcoded]/The.Big.Bang.Theory.Season.10.Complete.720p.WEB.x264-[MULVAcoded].nfo",
+		"/D/Desktop/[AnimeRG] My Hero Academia (Season 03) Boku no Hero Academia [720p] [Dual-Audio] [HEVC] [x265] [Batch] [pseudo]/torrent.nfo",
+		"/D/Desktop/pokemon.origins.(5208216).nfo",
+		"/D/Downloads/Shazam! (2019) (1080p BluRay x265 HEVC 10bit AAC 5.1[ArenaBG]/Sharzam!.nfo",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Telemetría y Telecontrol/Taller Overleaf/LaTeXcode.tex",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2019-1T/Telemetría y Telecontrol/Proyecto/sensor.php",
+		"/D/Desktop/ssh.sh",
+		"/D/Downloads/BPSK.m",
+		"/C/Program Files (x86)/Plex/Plex Media Server/Resources/Profiles/Samsung Tizen.xml",
+		"/C/Program Files (x86)/Plex/Plex Media Server/Resources/Profiles/Samsung SmartTV.xml",
+		"/D/Downloads/preguntas-biologia-2-Por puntaje_backup-20190520-2010.xml",
+		"/D/Downloads/preguntas-biologia-2-Por temas-20190520-1856.xml",
+		"/D/Downloads/preguntas-biologia-2-Por puntaje-20190520-2008.xml",
+		"/C/Users/groqu/AppData/Local/Temp/Rar$DIa17784.26598/1804 - Independent.nfo",
+		"/D/Desktop/VA-American_Idiot_The_Original_Broadway_Cast_Recording-OST-2CD-2010-VAG/000-va-american_idiot_the_original_broadway_cast_recording-ost-2cd-2010.nfo",
+		"/D/Desktop/MCU/19. Avengers - Infinity War (2018)/Avengers.Infinity.War.2018.1080p.WEB-DL.H264.AC3-EVO.nfo",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2018-2T/Bioinformática/Proyecto Bio-Linux/bin/seqprocess",
+		"/D/Desktop/deber.c",
+		"/D/Desktop/countseq",
+		"/D/Desktop/dbname",
+		"/D/Desktop/removen",
+		"/D/Desktop/oneliner",
+		"/D/OneDrive - Escuela Superior Politécnica del Litoral/Semestres/2018-2T/Bioinformática/bioinfo-db/ITS-NCBI.fasta",
+		"/G/Programas/Edición/Guitar Pro v6.1.9.11686/2.embrace/embrace.nfo",
+		"/D/Desktop/sagit-logo-gen-master/GenLogo/genlogo.py",
+		"/D/Desktop/Digitales/REG_SOST_MIN.vhd",
+		"/D/Desktop/Digitales/REG_SOST_MAX.vhd",
+		"/D/Desktop/Digitales/REG_SOST_AVG.vhd",
+		"/D/Desktop/Bio/Drosophila alpha amylase x20.fasta",
+		"/D/Desktop/Bio/machalilla - Copy.fasta",
+		"/D/Downloads/sequence.fasta",
+		"/D/Desktop/hosts",
+		"/C/Windows/System32/drivers/etc/hosts - copy",
+		"/D/Desktop/Digitales/CLOCK_6MIN.vhd",
+		"/D/Desktop/Digitales/CLOCK_1MIN.vhd",
+		"/D/Desktop/Digitales/CLOCK_1SEG.vhd",
+		"/D/Desktop/Digitales/ANTIREBOTE_vhdl.vhd",
+		"/D/Desktop/plaza-speedrunners/plaza.nfo",
+		"/D/Desktop/Devil May Cry HD Collection/codex.nfo",
+		"/F/Juegos/Dungeon Siege II - Broken World/readme.nfo",
+		"/F/Películas/Scott Pilgrim Vs. The World [2010]/i.nfo",
+		"/F/Juegos/Zoombinis/hi2u.nfo",
+		"/D/Desktop/Sept.2018x64-PVP.rar"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Por puntaje_backup",
+			"<answernumbering>abc</answernumbering>",
+			"<answernumbering>ABCD</answernumbering>",
+			"<answernumbering>abc</answernumbering>",
+			"answernumbering>abc</answernumbering>",
+			"answernumbering>ABCD</answernumbering>",
+			"<answernumbering>abc</answernumbering>",
+			"<answernumbering>ABCD</answernumbering>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Por puntaje",
+			"<answernumbering>none</answernumbering>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "html.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
