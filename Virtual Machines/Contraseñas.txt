@@ -1,0 +1,6 @@
+web-srv:
+	root root
+	Nagios:
+		nagiosadmin C3nt0sR
+	phpmyadmin
+		root
